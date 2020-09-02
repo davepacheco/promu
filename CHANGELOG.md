@@ -1,3 +1,7 @@
+## 0.6.1 / 2020-09-02
+
+Rebuild with Go 1.15.
+
 ## 0.6.0 / 2020-09-02
 
 * [CHANGE] Remove default build of darwin/386 #187
